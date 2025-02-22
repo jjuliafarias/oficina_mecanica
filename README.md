@@ -7,4 +7,4 @@ Fluxo do Sistema
 3. **Cálculo do valor da OS** (Mão de obra + peças)
 4. **Autorização do cliente**
 5. **Execução e finalização da OS**
-6. Faturamento e finalização da OS**
+6. **Faturamento e finalização da OS**
